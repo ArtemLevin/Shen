@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\MassiveMax\bin\Debug\net6.0\MassiveMax.exe
+C:\Users\PC\Desktop\Shen\MassiveMax\bin\Debug\net6.0\MassiveMax.deps.json
+C:\Users\PC\Desktop\Shen\MassiveMax\bin\Debug\net6.0\MassiveMax.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\MassiveMax\bin\Debug\net6.0\MassiveMax.dll
+C:\Users\PC\Desktop\Shen\MassiveMax\bin\Debug\net6.0\MassiveMax.pdb
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.dll
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\refint\MassiveMax.dll
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.pdb
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\MassiveMax.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\MassiveMax\obj\Debug\net6.0\ref\MassiveMax.dll
