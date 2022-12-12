@@ -31,10 +31,31 @@ PrintArray(arrayCopied);
 
 Console.WriteLine(" ");
 
-int DifferentElements(int[] array)
+int [] DifferentElements(int[] array)
 {
     int i = 0;
     int k = 0;
+    while (i < array.Length)
+    {
+        int j = i + 1;
+        while (j < array.Length)
+        {
+            if (array[j] == array[i])
+            {
+                k++;
+            }
+            j++;
+        }
+        i++;
+    }
+
+    if (k == 0)
+    {
+        return array;
+    }
+
+    i = 0;
+    k = 0;
     
     while (i < array.Length)
     {
@@ -56,11 +77,7 @@ int DifferentElements(int[] array)
                     p++;
                     y++;
                 } 
-                array = arrayHelp; 
-                PrintArray(array);
-                Console.Write(" ");
-                PrintArray(arrayHelp);
-                
+                array = arrayHelp;
             }
             
             j++;
@@ -70,7 +87,17 @@ int DifferentElements(int[] array)
         
     }
 
-    return arrayHelp.Length;
+    return DifferentElements(array);
 }
 
-Console.Write(" The number of different elements: " + DifferentElements(arrayCopied));
+int TheNumberOfDifferentElements = DifferentElements(arrayCopied).Length;
+Console.WriteLine(" ");
+Console.Write("TheNumber Of Different Elements " + TheNumberOfDifferentElements);
+
+
+// int [] DifArray = new int[TheNumberOfDifferentElements];
+
+// Console.WriteLine(" ");
+
+// DifArray = DifferentElements(arrayCopied);
+// PrintArray(DifArray);
