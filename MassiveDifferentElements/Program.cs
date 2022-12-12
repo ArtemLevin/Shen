@@ -29,11 +29,13 @@ arrayCopied = CreateArray(number);
 
 PrintArray(arrayCopied);
 
+Console.WriteLine(" ");
+
 int DifferentElements(int[] array)
 {
     int i = 0;
     int k = 0;
-    int dif;
+    
     while (i < array.Length)
     {
         int j = i + 1;
@@ -41,13 +43,34 @@ int DifferentElements(int[] array)
         {
             if (array[j] == array[i])
             {
-                k++;
+                int[] arrayHelp = new int[array.Length -1];
+                int p = 0;
+                int y = 0;
+                while (p < array.Length-1)
+                {
+                    if(y == j)
+                        {
+                            y++;
+                        }
+                    arrayHelp[p] = array[y];
+                    p++;
+                    y++;
+                } 
+                array = arrayHelp; 
+                PrintArray(array);
+                Console.Write(" ");
+                PrintArray(arrayHelp);
+                
             }
+            
             j++;
+            
         }
         i++;
+        
     }
-    return dif = array.Length - k + 1;
+
+    return arrayHelp.Length;
 }
 
 Console.Write(" The number of different elements: " + DifferentElements(arrayCopied));
