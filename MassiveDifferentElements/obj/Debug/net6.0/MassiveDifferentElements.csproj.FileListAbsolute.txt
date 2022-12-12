@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\bin\Debug\net6.0\MassiveDifferentElements.exe
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\bin\Debug\net6.0\MassiveDifferentElements.deps.json
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\bin\Debug\net6.0\MassiveDifferentElements.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\bin\Debug\net6.0\MassiveDifferentElements.dll
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\bin\Debug\net6.0\MassiveDifferentElements.pdb
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.dll
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\refint\MassiveDifferentElements.dll
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.pdb
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\MassiveDifferentElements.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\MassiveDifferentElements\obj\Debug\net6.0\ref\MassiveDifferentElements.dll
