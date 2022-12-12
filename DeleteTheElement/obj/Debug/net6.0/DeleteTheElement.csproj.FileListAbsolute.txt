@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\DeleteTheElement\bin\Debug\net6.0\DeleteTheElement.exe
+C:\Users\PC\Desktop\Shen\DeleteTheElement\bin\Debug\net6.0\DeleteTheElement.deps.json
+C:\Users\PC\Desktop\Shen\DeleteTheElement\bin\Debug\net6.0\DeleteTheElement.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\DeleteTheElement\bin\Debug\net6.0\DeleteTheElement.dll
+C:\Users\PC\Desktop\Shen\DeleteTheElement\bin\Debug\net6.0\DeleteTheElement.pdb
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.dll
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\refint\DeleteTheElement.dll
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.pdb
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\DeleteTheElement.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\DeleteTheElement\obj\Debug\net6.0\ref\DeleteTheElement.dll
