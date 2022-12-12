@@ -31,20 +31,25 @@ PrintArray(arrayCopied);
 
 Console.WriteLine(" ");
 
-int[] arrayHelp = new int[arrayCopied.Length -1];
-int p = 0;
-int j = 0;
-while (p < arrayCopied.Length-1)
-    {
-        if(j == 3)
+void DeleteTheElement(int [] array, int index)
+{
+    int[] arrayHelp = new int[array.Length -1];
+    int p = 0;
+    int j = 0;
+    while (p < array.Length-1)
         {
+            if(j == index)
+            {
+                j++;
+            }
+            arrayHelp[p] = array[j];
+            p++;
             j++;
-        }
-        arrayHelp[p] = arrayCopied[j];
-        p++;
-        j++;
-    } 
-arrayCopied = arrayHelp; 
-PrintArray(arrayHelp);
-Console.WriteLine(" ");
-PrintArray(arrayCopied);  
+        } 
+    array = arrayHelp; 
+    PrintArray(arrayHelp);
+    Console.WriteLine(" ");
+    PrintArray(array);  
+}
+
+DeleteTheElement(arrayCopied, 3);
