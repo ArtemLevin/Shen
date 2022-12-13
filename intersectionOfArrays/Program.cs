@@ -128,7 +128,6 @@ int IntersectionLength(int[] arrayOne, int[] arrayTwo)
 int len = IntersectionLength(DifferentElements(arrayOne), DifferentElements(arrayTwo));
 
 Console.WriteLine(" ");
-Console.WriteLine(" ");
 
 int [] IntersectionArray(int[] arrayOne, int[] arrayTwo, int length)
 {
@@ -153,6 +152,10 @@ int [] IntersectionArray(int[] arrayOne, int[] arrayTwo, int length)
     
     return InterArray;
 }
+
+Console.WriteLine("An array that is an intersection of arrays looks like ");
+
+Console.WriteLine(" ");
 
 PrintArray(IntersectionArray(DifferentElements(arrayOne), DifferentElements(arrayTwo), len));
 Console.WriteLine(" ");
