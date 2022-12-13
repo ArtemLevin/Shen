@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\bin\Debug\net6.0\intersectionOfArrays.exe
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\bin\Debug\net6.0\intersectionOfArrays.deps.json
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\bin\Debug\net6.0\intersectionOfArrays.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\bin\Debug\net6.0\intersectionOfArrays.dll
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\bin\Debug\net6.0\intersectionOfArrays.pdb
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.dll
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\refint\intersectionOfArrays.dll
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.pdb
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\intersectionOfArrays.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\intersectionOfArrays\obj\Debug\net6.0\ref\intersectionOfArrays.dll
