@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\ElementsTransported\bin\Debug\net6.0\ElementsTransported.exe
+C:\Users\PC\Desktop\Shen\ElementsTransported\bin\Debug\net6.0\ElementsTransported.deps.json
+C:\Users\PC\Desktop\Shen\ElementsTransported\bin\Debug\net6.0\ElementsTransported.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\ElementsTransported\bin\Debug\net6.0\ElementsTransported.dll
+C:\Users\PC\Desktop\Shen\ElementsTransported\bin\Debug\net6.0\ElementsTransported.pdb
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.dll
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\refint\ElementsTransported.dll
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.pdb
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ElementsTransported.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\ElementsTransported\obj\Debug\net6.0\ref\ElementsTransported.dll
