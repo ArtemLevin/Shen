@@ -98,7 +98,7 @@ Console.WriteLine(" ");
 Console.WriteLine(" ");
 
 
-int Intersection(int[] arrayOne, int[] arrayTwo)
+int IntersectionLength(int[] arrayOne, int[] arrayTwo)
 {
     int indexOne = 0;
     int counter = 0;
@@ -125,7 +125,7 @@ int Intersection(int[] arrayOne, int[] arrayTwo)
     return counter;
 }
 
-int len = Intersection(DifferentElements(arrayOne), DifferentElements(arrayTwo));
+int len = IntersectionLength(DifferentElements(arrayOne), DifferentElements(arrayTwo));
 
 Console.WriteLine(" ");
 Console.WriteLine(" ");
