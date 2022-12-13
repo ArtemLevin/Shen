@@ -81,11 +81,12 @@ int [] DifferentElements(int[] array)
 
 Console.WriteLine("The computer selects the size of the array... ");
 Console.WriteLine("The computer selects the elements of the array... ");
-int number = new Random().Next(5, 11);
-int[] arrayOne = new int[number];
-int[] arrayTwo = new int[number];
-arrayOne = CreateArray(number);
-arrayTwo = CreateArray(number);
+int numberOne = new Random().Next(5, 11);
+int[] arrayOne = new int[numberOne];
+int numberTwo = new Random().Next(5, 11);
+int[] arrayTwo = new int[numberTwo];
+arrayOne = CreateArray(numberOne);
+arrayTwo = CreateArray(numberTwo);
 Console.WriteLine("The computer prints the first array ... ");
 Console.WriteLine(" ");
 PrintArray(arrayOne);
