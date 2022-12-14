@@ -1,4 +1,6 @@
-﻿int[] CreateArray(int number)
+﻿// merging two arrays
+
+int[] CreateArray(int number)
 {
     int[] array = new int[number];
     int i = 0;
@@ -20,7 +22,7 @@ void PrintArray(int[] array)
     }
 }
 
-void Ordering (int [] arrayOne)
+void Sorting (int [] arrayOne)
 {
     int index = 0;
     int max = arrayOne[0];
@@ -57,6 +59,8 @@ void Ordering (int [] arrayOne)
     Console.WriteLine(" ");
     Console.WriteLine(" ");
 }
+
+
 
 Console.Write("Enter the first array length ");
 int numberOne = int.Parse(Console.ReadLine()!);
@@ -101,4 +105,4 @@ int [] MergeArrays(int [] arrayOne, int [] arrayTwo)
 }
 
 Console.WriteLine(" ");
-Ordering (MergeArrays(arrayOne, arrayTwo));
+Sorting(MergeArrays(arrayOne, arrayTwo));
