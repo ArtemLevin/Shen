@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\IncreasingArray\bin\Debug\net6.0\IncreasingArray.exe
+C:\Users\PC\Desktop\Shen\IncreasingArray\bin\Debug\net6.0\IncreasingArray.deps.json
+C:\Users\PC\Desktop\Shen\IncreasingArray\bin\Debug\net6.0\IncreasingArray.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\IncreasingArray\bin\Debug\net6.0\IncreasingArray.dll
+C:\Users\PC\Desktop\Shen\IncreasingArray\bin\Debug\net6.0\IncreasingArray.pdb
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.dll
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\refint\IncreasingArray.dll
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.pdb
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\IncreasingArray.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\IncreasingArray\obj\Debug\net6.0\ref\IncreasingArray.dll
