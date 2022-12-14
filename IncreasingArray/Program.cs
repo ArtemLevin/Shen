@@ -39,7 +39,7 @@ Console.WriteLine(" ");
 Console.WriteLine(" ");
 
 
-int [] Ordering (int [] arrayOne)
+void Ordering (int [] arrayOne)
 {
     int index = 0;
     int max = arrayOne[0];
@@ -76,3 +76,5 @@ int [] Ordering (int [] arrayOne)
     Console.WriteLine(" ");
     Console.WriteLine(" ");
 }
+
+Ordering (arrayOne);
