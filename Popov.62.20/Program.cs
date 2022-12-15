@@ -45,13 +45,16 @@ PrintArray(array);
 Console.WriteLine(" ");
 
 int index = 0;
-int k = -1;
 while(index<array.Length-1)
 {
-    if(array[index]>array[index+1])
+    if(array[index]>=array[index+1])
     {
-
         Console.Write(" " + index + " ");
+    }
+
+    if(index != (array.Length - 2) && array[index]>array[index+1]  && array[index+1]<array[index+2])
+    {
+        Console.WriteLine(" " + (index + 1) + "  ");
     }
     index++;
 }
