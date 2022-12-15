@@ -9,7 +9,7 @@ int[] CreateArray(int number)
     int i = 0;
     while (i < number)
     {
-        array[i] = new Random().Next(0, 10);
+        array[i] = new Random().Next(0, 20);
         i++;
     }
     return array;
@@ -64,7 +64,7 @@ void Ordering (int [] arrayOne)
         {
             int temp = arrayOne[k];
             arrayOne[k] = arrayOne[index];
-        arrayOne[index] = temp;
+            arrayOne[index] = temp;
         }
         // PrintArray(arrayOne);
         // Console.WriteLine(" ");

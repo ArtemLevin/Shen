@@ -24,7 +24,7 @@ void PrintArray(int [] array)
 Console.Write("Enter masiive length ");
 int number = int.Parse(Console.ReadLine()!);
 
-// PrintArray(CreateArray(number));
+PrintArray(CreateArray(number));
 
 int NumberOfElements(int [] array, int k)
 {
