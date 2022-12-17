@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.exe
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.deps.json
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.dll
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.pdb
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.dll
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\refint\BinaryToDecimal.dll
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.pdb
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\BinaryToDecimal\obj\Debug\net6.0\ref\BinaryToDecimal.dll
