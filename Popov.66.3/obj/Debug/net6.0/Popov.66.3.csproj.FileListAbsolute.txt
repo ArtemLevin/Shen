@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\Popov.66.3\bin\Debug\net6.0\Popov.66.3.exe
+C:\Users\PC\Desktop\Shen\Popov.66.3\bin\Debug\net6.0\Popov.66.3.deps.json
+C:\Users\PC\Desktop\Shen\Popov.66.3\bin\Debug\net6.0\Popov.66.3.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\Popov.66.3\bin\Debug\net6.0\Popov.66.3.dll
+C:\Users\PC\Desktop\Shen\Popov.66.3\bin\Debug\net6.0\Popov.66.3.pdb
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.dll
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\refint\Popov.66.3.dll
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.pdb
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\Popov.66.3.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\Popov.66.3\obj\Debug\net6.0\ref\Popov.66.3.dll
