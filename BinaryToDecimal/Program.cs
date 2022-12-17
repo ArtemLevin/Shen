@@ -1,5 +1,5 @@
-﻿// // String res = Format.Empty;
-// int num = 123;
+﻿Console.Write("Enter a number: ");
+int num = int.Parse(Console.ReadLine()!);
 string Binary(int num)
 {
     if (num == 0)
@@ -16,4 +16,4 @@ string Binary(int num)
         return  Binary(num/2) + num%2;
     }
 } 
-Console.WriteLine(Binary(121));
+Console.WriteLine("Number {0} in decimal converted to binary is {1}", num, Binary(num));
