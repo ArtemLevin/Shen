@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\bin\Debug\net6.0\addingRowsAndColumns.exe
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\bin\Debug\net6.0\addingRowsAndColumns.deps.json
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\bin\Debug\net6.0\addingRowsAndColumns.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\bin\Debug\net6.0\addingRowsAndColumns.dll
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\bin\Debug\net6.0\addingRowsAndColumns.pdb
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.dll
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\refint\addingRowsAndColumns.dll
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.pdb
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\addingRowsAndColumns.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\addingRowsAndColumns\obj\Debug\net6.0\ref\addingRowsAndColumns.dll
