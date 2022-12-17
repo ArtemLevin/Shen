@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.AssemblyInfo.cs
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Shen\foreachUsing\bin\Debug\net6.0\foreachUsing.exe
+C:\Users\PC\Desktop\Shen\foreachUsing\bin\Debug\net6.0\foreachUsing.deps.json
+C:\Users\PC\Desktop\Shen\foreachUsing\bin\Debug\net6.0\foreachUsing.runtimeconfig.json
+C:\Users\PC\Desktop\Shen\foreachUsing\bin\Debug\net6.0\foreachUsing.dll
+C:\Users\PC\Desktop\Shen\foreachUsing\bin\Debug\net6.0\foreachUsing.pdb
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.dll
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\refint\foreachUsing.dll
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.pdb
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\foreachUsing.genruntimeconfig.cache
+C:\Users\PC\Desktop\Shen\foreachUsing\obj\Debug\net6.0\ref\foreachUsing.dll
