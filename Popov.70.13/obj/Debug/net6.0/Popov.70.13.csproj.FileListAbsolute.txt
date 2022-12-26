@@ -1,0 +1,15 @@
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\bin\Debug\net6.0\Popov.70.13.exe
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\bin\Debug\net6.0\Popov.70.13.deps.json
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\bin\Debug\net6.0\Popov.70.13.runtimeconfig.json
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\bin\Debug\net6.0\Popov.70.13.dll
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\bin\Debug\net6.0\Popov.70.13.pdb
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.csproj.AssemblyReference.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.AssemblyInfoInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.AssemblyInfo.cs
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.csproj.CoreCompileInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.dll
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\refint\Popov.70.13.dll
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.pdb
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\Popov.70.13.genruntimeconfig.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\Popov.70.13\obj\Debug\net6.0\ref\Popov.70.13.dll
