@@ -1,4 +1,6 @@
-﻿
+﻿// Задаем матрицу с неповторяющимися элементами и находим координаты минимального элемента
+
+
 int[] CreateOneDimArray(int sizeOfArray)
 {
     int count = 0;
@@ -60,5 +62,42 @@ void PrintArray(int[,] array)
     }
 }
 
+int [,] TwoDimArray = new int[2, 5];
+TwoDimArray = ConvertOneDimToTwoDimArray(CreateOneDimArray(10));
 
-PrintArray(ConvertOneDimToTwoDimArray(CreateOneDimArray(26)));
+PrintArray(TwoDimArray);
+
+void IndexesOfMininRows(int [,] array)
+{
+    int minElement = 0;
+    int count = 0;
+    int indexI = 0;
+    int indexJ = 0;
+    int finalIndexI = 0;
+    int finalIndexJ = 0;
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        int minElementInRow = array[i,0];
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            if(array[i,j] < minElementInRow) 
+            {           
+                minElementInRow = array[i,j];
+                indexI = i;
+                indexJ = j;
+            }
+        }
+        count++;
+        if(count == 1) minElement = minElementInRow;
+        else 
+        {            
+            if(minElement>minElementInRow) minElement = minElementInRow;
+            finalIndexI = indexI;
+            finalIndexJ = indexJ;
+        }
+    }
+    Console.WriteLine($"Min = {minElement}, i = {finalIndexI}, j = {finalIndexJ} ");
+    
+}
+
+IndexesOfMininRows(TwoDimArray);
