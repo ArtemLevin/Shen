@@ -1,0 +1,15 @@
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.csproj.AssemblyReference.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.AssemblyInfoInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.AssemblyInfo.cs
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.csproj.CoreCompileInputs.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\bin\Debug\net6.0\MatrixWithNonRepeatingElements.exe
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\bin\Debug\net6.0\MatrixWithNonRepeatingElements.deps.json
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\bin\Debug\net6.0\MatrixWithNonRepeatingElements.runtimeconfig.json
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\bin\Debug\net6.0\MatrixWithNonRepeatingElements.dll
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\bin\Debug\net6.0\MatrixWithNonRepeatingElements.pdb
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.dll
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\refint\MatrixWithNonRepeatingElements.dll
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.pdb
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\MatrixWithNonRepeatingElements.genruntimeconfig.cache
+C:\Users\PC\YandexDisk\Гикарь\CSharp\Shen\MatrixWithNonRepeatingElements\obj\Debug\net6.0\ref\MatrixWithNonRepeatingElements.dll
